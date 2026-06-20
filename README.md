@@ -1,2 +1,14 @@
 # hthdatacn-resource
-HTML page archive and documentation
+
+自动页面托管记录
+
+这里集中存放 HTML 页面，README 仅用于说明仓库用途。
+
+## 文件组织
+
+- 根目录承载页面文件
+- README 记录仓库用途与状态
+
+## 存档说明
+
+页面文件会持续归档，后续内容以实际发布结果为准。
